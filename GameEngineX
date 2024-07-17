@@ -1,0 +1,17 @@
+GameEngineX/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── game_engine_x.py
+├── tests/
+│   ├── __init__.py
+│   └── test_game_engine_x.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
